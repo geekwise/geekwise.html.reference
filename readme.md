@@ -2,8 +2,8 @@
 
 MARKUP	        | Description
 --------------- | ---------------
-`<!--...--`>`	|	Use to create a comment
-`<!DOCTYPE> `	| 	Use to create the document type
+`<!--...-->`	|	Use to create a comment
+`<!DOCTYPE>`	| 	Use to create the document type
 `<a>`			|	Use to create a hyperlink
 `<abbr>`		|	Use to create an abbreviation
 `<address>`		|	Use to create an address element
